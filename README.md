@@ -26,7 +26,7 @@ The repository is organized by topics (eventually) to help participants navigate
    git clone https://github.com/your-username/a2sv-leetcode-bootcamp.git
    cd a2sv-leetcode-bootcamp
 
-##Acknowledgments
+## Acknowledgments
 Special thanks to A2SV for organizing this bootcamp and providing an opportunity for continuous learning and growth.
 
 Happy coding! 🎉
