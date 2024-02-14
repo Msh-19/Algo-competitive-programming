@@ -1,6 +1,6 @@
-# A2SV LeetCode Bootcamp
+# A2SV Bootcamp
 
-Welcome to the A2SV (Africa to Silicon Valley) LeetCode Bootcamp repository! 🚀 This repository contains solutions to various LeetCode questions that participants will encounter during our year-long bootcamp. The bootcamp is designed to enhance your problem-solving skills and prepare you for technical interviews.
+Welcome to the A2SV (Africa to Silicon Valley) Bootcamp repository! 🚀 This repository contains solutions to various LeetCode  and codeforces questions that participants will encounter during our year-long bootcamp. The bootcamp is designed to enhance your problem-solving skills and prepare you for technical interviews.
 
 ## About A2SV
 
